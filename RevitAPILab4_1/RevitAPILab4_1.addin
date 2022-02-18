@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"\\nut\home\s.hramcov\Desktop\RevitAPITraining\RevitAPILab4_1.dll"</Assembly>
+		<AddInId>1A7A0D73-2FE2-4EC3-A74C-E12CA053AA05</AddInId>
+		<FullClassName>RevitAPILab4_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Получение данных по стене</Text>
+	</AddIn>
+</RevitAddIns>
